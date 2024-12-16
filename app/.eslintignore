@@ -1,7 +1,0 @@
-/archive
-/dist
-/**/builds/*
-/testArtifacts
-/test/unit/coverage/
-/.vscode/*
-/docs/cosmos-voyager/
